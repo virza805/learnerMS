@@ -10,7 +10,7 @@ use App\Http\Controllers\InvoiceController;
 use App\Http\Controllers\CourseController;
 use App\Http\Controllers\CurriculamController;
 use App\Http\Controllers\QuestionController;
-use App\Http\Controllers\QuizController;
+// use App\Http\Controllers\QuizController;
 use App\Http\Controllers\StripePaymentController;
 
 /*
